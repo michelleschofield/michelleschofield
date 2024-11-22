@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**michelleschofield/michelleschofield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+My name is Michelle Schofield. I am passionate about web develope because I like writing code it's just fun. I'm interested in expanding my skills by learning React Native. Outside of web developement I also like sudoku.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Typescript
+* React
+* Node.js
+* Express
+
+## Linkedin
+
+https://www.linkedin.com/in/michelle-schofield-web-dev/
